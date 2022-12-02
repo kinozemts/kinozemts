@@ -1,6 +1,6 @@
 ### Hi there 👋 I Kirill Inozemtsev
 ### Коспект по системному подходу
-kinozemts.kinozemts.github.io
+https://github.com/kinozemts/kinozemts.github.io
 ### Формулы
 $$\bar{E^2_1}=\sqrt{\frac{Fa^{x-1}}{(x-1)x}}+\alpha^\frac{1}{3}_1 +\beta^\frac{2}{3}_2$$
 
