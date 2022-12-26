@@ -2,6 +2,10 @@
 [Uploading png-transparent-happy-new-year-powder-graphic-design-powder-creative-design-thumbnail.png…]()
 ### Коспект по системному подходу!
 https://github.com/kinozemts/kinozemts.github.io
+
+
+викторина.py-программа, которая задает вопросы, с ответами да/нет, по итогу считает количество верных вопросов.
+
 ### Формулы
 $$\bar{E^2_1}=\sqrt{\frac{Fa^{x-1}}{(x-1)x}}+\alpha^\frac{1}{3}_1 +\beta^\frac{2}{3}_2$$
 
@@ -14,5 +18,3 @@ $$\lim\limits_{x \to \infty} \exp(-x) = x^{x-1}$$
 $$f(n) = n^5 + 4n^2 + 2 |_{n=17}$$
 
 ![lagrida_latex_editor-3](https://user-images.githubusercontent.com/114712953/201250510-bd19e14c-e657-4113-aada-e5ca18aa9eaa.png)
-
-### Векторина - это программа, которая задает вопросы, с ответами да/нет, по итогу считает количество верных вопросов.
